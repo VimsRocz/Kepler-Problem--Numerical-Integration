@@ -1,5 +1,8 @@
 # Kepler-Problem--Numerical-Integration
 This repository implements numerical integration of the Kepler problem for the CHAMP satellite orbit, assuming zero eccentricity and inclination of 90 degrees. It compares analytical and numerical solutions and explores the impact of step size on a custom integrator. (Uses MATLAB)
+
+# Run only Numerical_orbit.m file 
+
 # Kepler Problem - Numerical Integration
 
 This GitHub repository explores the numerical simulation of the CHAMP satellite's orbit using MATLAB. It implements simplifying assumptions (e = 0, i = 90°) for the Kepler problem and allows you to compare analytical and numerical integration approaches.
